@@ -1,0 +1,17 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Rider / VS
+*.csproj
+*.sln
