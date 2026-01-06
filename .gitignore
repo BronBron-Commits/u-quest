@@ -15,3 +15,9 @@ UserSettings/
 # Rider / VS
 *.csproj
 *.sln
+
+# Visual Studio
+.vs/
+
+# Unity recovery / temp
+Assets/_Recovery/
